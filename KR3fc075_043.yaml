@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc075/tls/v1/juan/43
+seq: 43
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 測圓密率
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc075.xml
+hash: sha256:bb24cb94a95c6f708f7bf748f4f83fc77e9f499cfc66823ad771d9fe02e38f4a

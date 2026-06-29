@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc075/tls/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 廣袤相乘以乘高四而一為第一數四分第一數之一二除之三除之為第二數四分第二數之一九乘之四除之五除之為第三數四分第三數之一二十五乘之六除之七除之為第四數順是以下皆如是遞求至單位下乃相併為橢圜尖錐積第十七術橢圜臺體求積倍上袤下袤從之亦倍下袤上袤從之各以其廣乘之併以乘高八而一為第一數四分第一數之一二除之三除之為第二數四分第二數之一九乘之四除之五除之為第三數四分第三數之一二十五乘之六除之七除之為第四數順是以下皆如是遞求至單位下乃相併為橢圜臺積
+  hash: sha256:bc2bff37e5a91030508b146fdb12065b7724efd9bdf7f12f8e61c5974a76c95e
+metadata:
+  title: 測圓密率
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc075.xml
+hash: sha256:fd16f72b1d84cb5b629bf3d4674ea7ab5746c09aaf948dcac0f5c906df403523

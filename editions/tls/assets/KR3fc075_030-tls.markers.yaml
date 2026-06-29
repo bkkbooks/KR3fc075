@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3fc075/tls/v1/markers/30
+seq: 30
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc075_tls_001-p15.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup13, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 19, content: '', id: KR3fc075_tls_001-p15.s2}
+  - {type: line-break, offset: 19, content: '', id: KX_2_dup15, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 23, content: '', id: KR3fc075_tls_001-p15.s3}
+  - {type: line-break, offset: 23, content: '', id: KX_3_dup15, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 38, content: '', id: KR3fc075_tls_001-p15.s4}
+  - {type: line-break, offset: 38, content: '', id: KX_4_dup15, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 59, content: '', id: KR3fc075_tls_001-p15.s5}
+  - {type: line-break, offset: 59, content: '', id: KX_5_dup15, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 80, content: '', id: KR3fc075_tls_001-p15.s6}
+  - {type: line-break, offset: 80, content: '', id: KX_6_dup15, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 101, content: '', id: KR3fc075_tls_001-p15.s7}
+  - {type: line-break, offset: 101, content: '', id: KX_7_dup15, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 122, content: '', id: KR3fc075_tls_001-p15.s8}
+  - {type: line-break, offset: 122, content: '', id: KX_8_dup15, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 131, content: '', id: KR3fc075_tls_001-p15.s9}
+  - {type: line-break, offset: 131, content: '', id: KX_9_dup15, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 135, content: '', id: KR3fc075_tls_001-p15.s10}
+  - {type: line-break, offset: 135, content: '', id: KX_10_dup15, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: 'tls:seg', offset: 150, content: '', id: KR3fc075_tls_001-p15.s12}
+  - {type: line-break, offset: 150, content: '', id: KX_12_dup15, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 171, content: '', id: KR3fc075_tls_001-p15.s13}
+  - {type: line-break, offset: 171, content: '', id: KX_13_dup15, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 192, content: '', id: KR3fc075_tls_001-p15.s14}
+  - {type: line-break, offset: 192, content: '', id: KX_14_dup15, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 213, content: '', id: KR3fc075_tls_001-p15.s15}
+  - {type: line-break, offset: 213, content: '', id: KX_15_dup14, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 234, content: '', id: KR3fc075_tls_001-p15.s16}
+  - {type: line-break, offset: 234, content: '', id: KX_16_dup14, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 255, content: '', id: KR3fc075_tls_001-p15.s17}
+  - {type: line-break, offset: 255, content: '', id: KX_17_dup14, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 259, content: '', id: KR3fc075_tls_001-p15.s18}
+  - {type: line-break, offset: 259, content: '', id: KX_18_dup14, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 273, content: '', id: KR3fc075_tls_001-p15.s19}
+  - {type: line-break, offset: 273, content: '', id: KX_19_dup14, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: 'tls:seg', offset: 294, content: '', id: KR3fc075_tls_001-p15.s20}
+  - {type: line-break, offset: 294, content: '', id: KX_20_dup14, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: 'tls:seg', offset: 315, content: '', id: KR3fc075_tls_001-p15.s21}
+  - {type: line-break, offset: 315, content: '', id: KX_21_dup14, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  back: []
+hash: sha256:e6cad1c7c2044a0f92556747ef82489f38e40ae49b005680980ecdb4a3315cec
